@@ -6,8 +6,10 @@ Your homework is to build a next word predictor using an RNN. You can use the co
 - Try different number of layers and measure change in performance.
 - You can modify the dataset to predict inner words but it will make building the model more difficult.
 
-Goal: 
+Goals: 
 Evaluate how well the model predicts the next word on the testing dataset
+
 Build a sentence_generator which can generate arbitrarily long sentences. 
+
 Try to prevent the output from repeating the same word over and over (I wrote a poem poem poem poem poem poem poem poem poem poem poem).
 Can your model generate plausible sentences? Bring your examples!
